@@ -32,6 +32,6 @@ Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.iact.deb
-Depends: Activator, Applist, cURL, CydiaSubstrate, Flipswitch
+Depends: com.captinc.batchomatic_4.3.1_iphoneos-arm
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
