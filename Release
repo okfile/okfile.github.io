@@ -32,5 +32,4 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Depends: Activator, Applist, cURL, Cydia Substrate, Flipswitch
 Description: ACT
