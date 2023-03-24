@@ -16,11 +16,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: IAutolead
 
-Origin: 12ipa
-Label: 12ipa
+Origin: I_IPA
+Label: I_IPA
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 12ipa
+Description: IPA
