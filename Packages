@@ -32,6 +32,6 @@ Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.iact.deb
-Depends: com.bigboss.cydiasubstrate, com.apt.bingner.curl
+Depends: com.apt.binger.mobilesubtrate, apt.bingner.com.curl
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
