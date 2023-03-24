@@ -32,6 +32,5 @@ Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.iact.deb
-Depends: com.unlimapps.uaupdatetools
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
