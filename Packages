@@ -9,7 +9,7 @@ MD5sum: 088153017b6f251fdb62bbb9e3d5228d
 
 Package: IAutolead
 Version: 1.0
-Section: System
+Section: Utilities
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.ih.Autolead.deb
@@ -18,7 +18,7 @@ MD5sum: 8aff3ee7ff2c920d2edaa6ef01e0858d
 
 Package: IIPA
 Version: 1.0
-Section: System
+Section: Utilities
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.iipa.deb
@@ -32,5 +32,6 @@ Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.iact.deb
+Depends: Activator, Applist, cURL, Cydia Substrate, Flipswitch
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
