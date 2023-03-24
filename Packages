@@ -16,22 +16,22 @@ Filename: ./debs/com.ih.Autolead.deb
 Size: 460140
 MD5sum: 8aff3ee7ff2c920d2edaa6ef01e0858d
 
-Package: I_IPA
+Package: IIPA
 Version: 1.0
 Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
-Filename: ./debs/com.IIPA.deb
+Filename: ./debs/com.iipa.deb
 Depends: com.unlimapps.uaupdatetools
 Size: 78208
 MD5sum: a5b672f431d9c49c82c3caa10466d13f
 
-Package: I_ACT
+Package: IACT
 Version: 1.0
 Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
-Filename: ./debs/com.IACT.deb
+Filename: ./debs/com.iact.deb
 Depends: com.unlimapps.uaupdatetools
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
