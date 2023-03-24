@@ -21,7 +21,7 @@ Version: 1.0
 Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
-Filename: ./debs/com.I_IPA.deb
+Filename: ./debs/com.IIPA.deb
 Depends: com.unlimapps.uaupdatetools
 Size: 78208
 MD5sum: a5b672f431d9c49c82c3caa10466d13f
@@ -31,7 +31,7 @@ Version: 1.0
 Section: System
 Maintainer: OkFile
 Archtecture: iphone-arm
-Filename: ./debs/com.I_ACT.deb
+Filename: ./debs/com.IACT.deb
 Depends: com.unlimapps.uaupdatetools
 Size: 2290
 MD5sum: ed4eb31ca0e5114825d13f241aed41d1
