@@ -16,8 +16,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: IAutolead
 
-Origin: I_IPA
-Label: I_IPA
+Origin: IIPA
+Label: IIPA
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -25,8 +25,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: IPA
 
-Origin: I_ACT
-Label: I_ACT
+Origin: IACT
+Label: IACT
 Suite: stable
 Version: 1.0
 Codename: ios
