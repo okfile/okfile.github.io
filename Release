@@ -1,0 +1,26 @@
+Origin: IHTeam
+Label: IHHook
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: IHHook
+
+Origin: IAutolead
+Label: IAutolead
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: IAutolead
+
+Origin: 12ipa
+Label: 12ipa
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 12ipa
